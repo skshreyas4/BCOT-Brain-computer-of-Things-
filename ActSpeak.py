@@ -82,9 +82,9 @@ class Act2Speak(Frame):
     def mentalComm(self):
         self.url = "wss://localhost:6868"
         self.user = {
-         "license": "1d10f0b4-65e4-4424-ae8a-a56ae2fa6950",
-         "client_id": "uNU5UMKd9eFLYp8JtHr6ZXXaLHg1p6rf1BReVn4N",
-         "client_secret": "9wcDtQn2Wubjg7zzlO2tnkx8Hzk1GkLpqZsqgOiuaWsaI0VRkxcxeQ9ZOPrHrNvJ1tlgOAV1XEZ6ooxJ06sRwobXDApRsol08w9YsJWU0fVAieWYp6kHexOlM9OWqXWk",
+         "license": "",
+         "client_id": "",
+         "client_secret": "",
          "debit": 100,
          "number_row_data": 10
         }
