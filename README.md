@@ -17,3 +17,4 @@ Note:<br />
 *use your own profile name<br />
 
 
+![Imgur Image](http://https://github.com/skshreyas4/BCOT-Brain-computer-of-Things-/blob/master/images/frontPage.JPG)
