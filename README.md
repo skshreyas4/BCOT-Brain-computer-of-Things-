@@ -9,7 +9,7 @@ Features of the project are:<br />
 
 requirements:<br />
 *Emotiv Insight headset<br />
-*Python IDE<br />
+*Python IDE(Pycharm)<br />
 
 Note:<br />
 *remember to use your own license and clientId and client_secret_ID in their places and these will be provided by the Emotiv Team <br />
