@@ -1,5 +1,5 @@
 # BCOT-Brain-computer-of-Things-
-This project is based on Bran computer interface(BCI),
+This project is based on Brain computer interface(BCI),
 Project is designed using Tkinter and Emotiv Cortex APIs<br />
 Features of the project are:<br />
 *Lights can be turned on/off by blink of eye<br />
